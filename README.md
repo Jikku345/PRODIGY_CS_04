@@ -16,9 +16,19 @@ Follow these steps to install and run the keylogger:
 ```bash
 git clone https://github.com/Jikku345/PRODIGY_CS_04.git
 cd PRODIGY_CS_04
-
+```
 ### 2.  Install dependencies:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-### 2.  Install dependencies:
-python keylogger.py
+### 3. Run the Keylogger:
+```python keylogger.py```
+
+# 📄 Requirements
+`Python 3.x
+pynput module (install with pip install pynput)
+🔴 Stop the Keylogger
+To stop the keylogger, press Ctrl + C in the terminal.`
+
+###⚠️ Legal Disclaimer
+This tool is for educational purposes only!
+Unauthorized keylogging is illegal in many countries. Use this script only on your own devices or with explicit permission. Do not use this for malicious or unauthorized activities.
